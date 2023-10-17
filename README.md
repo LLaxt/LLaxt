@@ -2,6 +2,7 @@
 <h3 align="center">A passionate full stack developer from Seattle</h3>
 
 - 📫 How to reach me **laurenlaxton1@gmail.com**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-plain.svg" alt="docker" width="10" height="10"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
