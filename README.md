@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lauren</h1>
-<h3 align="center">A passionate full stack developer from Seattle</h3>
+<h4 align="center">A passionate full stack developer, leader, and creative from Seattle</h4>
 
 <h3 align="left">Connect with me:</h3>
 
