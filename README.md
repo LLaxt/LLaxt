@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lauren</h1>
 <h3 align="center">A passionate full stack developer from Seattle</h3>
 
-- 📫 How to reach me **laurenlaxton1@gmail.com**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-plain.svg" alt="docker" width="10" height="10"/>
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/laurenlaxton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laurenlaxton" height="30" width="40" /></a>
+- 📫 **laurenlaxton1@gmail.com**
+- <a href="https://linkedin.com/in/laurenlaxton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laurenlaxton" height="15" width="20" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
